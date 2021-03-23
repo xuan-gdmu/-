@@ -1,0 +1,2 @@
+2021-03-18 16:30:23.054 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'eduTeacherMapper' and 'com.atguigu.eduservice.mapper.EduTeacherMapper' mapperInterface. Bean already defined with the same name!
+2021-03-18 16:30:23.054 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.atguigu.eduservice.mapper]' package. Please check your configuration.
